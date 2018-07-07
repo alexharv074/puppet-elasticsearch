@@ -7,6 +7,7 @@
 * Resolve deprecation warnings related to use of the deprecated is_array() function.
 * Convert the hiera.yaml from v4 to v5 format to resolve deprecation warnings.
 * Removes deprecated data_provider from metadata.json.
+* Resolve deprecation warnings related to use of the deprecated is_string() function.
 
 ## 6.3.0 (June 18, 2018)
 
